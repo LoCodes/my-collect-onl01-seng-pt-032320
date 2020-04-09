@@ -17,3 +17,5 @@ def my_collect(array)
   end
   collection
 end
+
+array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
